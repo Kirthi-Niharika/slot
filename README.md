@@ -122,5 +122,6 @@ h3 {text-align: center;}
 
 ## OUTPUT
 <img width="960" alt="exp3" src="https://github.com/Kirthi-Niharika/slot/assets/114135005/4c13a81a-1ba1-416a-adb0-e8055bf1c60d">
+
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
