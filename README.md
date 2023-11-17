@@ -40,7 +40,6 @@ Execute the program using runserver command.
 	<TH ><h3><b>Thursday</b></h3></TH>
 	<TH ><h3><b>Friday</b><h3></TH>
 </TR>   
-
 <TR Align="center" > 
 	<TD bgcolor="yellow">8-10</TD>
 	<TD colspan="3">FREE SLOT</TD> 
@@ -74,7 +73,6 @@ Execute the program using runserver command.
 	<TD >CHE</TD>
 	<TD>FWAD</TD>
 </TR>
-
 </TABLE>
 <br>
 <TABLE BORDER="5" width="600" cellspacing="5" cellpadding="5" Align="center" bgcolor="white"> 
@@ -82,9 +80,7 @@ Execute the program using runserver command.
 	<TH ><h3><b> S.No. </b></h3></TH> 
 	<TH ><h3><b>Subject Code</b></h3></TH>
 	<TH ><h3><b>Subject Name</b></h3></TH>
-
 </TR>   
-
 <TR  > 
 	<TD ><center>1.</center></TD>
 	<TD ><center>19AI414</center></TD> 
@@ -105,23 +101,18 @@ Execute the program using runserver command.
 	<TD ><center>4.</center></TD> 
 	<TD ><center>19CY205</center></TD>
 	<TD >Principles of Chemistry in Engineering (CHE)</TD>
-
 </TR>
 <TR>
 	<TD><center>5.</center></TD> 
 	<TD ><center>19MA201</center></TD>
 	<TD >Calculus and Matrix Algebra(MAT)</TD>
-
 </TR>
 <TR>
 	<TD><center>6.</center></TD> 
 	<TD ><center>19EY701</center></TD>
 	<TD >Soft Skills(SS)</TD>
-
 </TR>
 </TABLE>
-
-
 </body>
 <style>
 h3 {text-align: center;}
@@ -130,7 +121,6 @@ h3 {text-align: center;}
 ```
 
 ## OUTPUT
-![Alt text](exp3.png)
-
+<img width="960" alt="exp3" src="https://github.com/Kirthi-Niharika/slot/assets/114135005/4c13a81a-1ba1-416a-adb0-e8055bf1c60d">
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
